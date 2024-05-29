@@ -17,7 +17,7 @@ google query sheet
 SELECT FROM TABLE 1
 WHERE CONDITION * MET
 ~~~
-![school](Screenshot(1))
+![school](Screenshot(1).png)
 |Heading 1 | Heading 2 | Heading 3|
 |----------|-----------|----------|
 |Data 1 | Data 2 | Data 3 |
